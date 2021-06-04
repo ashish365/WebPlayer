@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WebPlayer/static/css/main.bab0b925.chunk.css",
+    "main.js": "/WebPlayer/static/js/main.b2c4e590.chunk.js",
+    "main.js.map": "/WebPlayer/static/js/main.b2c4e590.chunk.js.map",
+    "runtime-main.js": "/WebPlayer/static/js/runtime-main.83e46ea8.js",
+    "runtime-main.js.map": "/WebPlayer/static/js/runtime-main.83e46ea8.js.map",
+    "static/css/2.221f5697.chunk.css": "/WebPlayer/static/css/2.221f5697.chunk.css",
+    "static/js/2.c9aa2d46.chunk.js": "/WebPlayer/static/js/2.c9aa2d46.chunk.js",
+    "static/js/2.c9aa2d46.chunk.js.map": "/WebPlayer/static/js/2.c9aa2d46.chunk.js.map",
+    "static/js/3.d2abc3c6.chunk.js": "/WebPlayer/static/js/3.d2abc3c6.chunk.js",
+    "static/js/3.d2abc3c6.chunk.js.map": "/WebPlayer/static/js/3.d2abc3c6.chunk.js.map",
+    "index.html": "/WebPlayer/index.html",
+    "static/css/2.221f5697.chunk.css.map": "/WebPlayer/static/css/2.221f5697.chunk.css.map",
+    "static/css/main.bab0b925.chunk.css.map": "/WebPlayer/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.c9aa2d46.chunk.js.LICENSE.txt": "/WebPlayer/static/js/2.c9aa2d46.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/WebPlayer/static/media/lato-latin-ext-400-normal.b267ec5a.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83e46ea8.js",
+    "static/css/2.221f5697.chunk.css",
+    "static/js/2.c9aa2d46.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.b2c4e590.chunk.js"
+  ]
+}
