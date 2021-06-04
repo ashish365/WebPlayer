@@ -51,7 +51,7 @@ const SearchBar: FunctionComponent = () => {
     <>
       <Input
         id="search-box"
-        placeholder={`Have fun viewing...`}
+        placeholder={`Type here to Search...`}
         borderBottomWidth="4px"
         _hover={{ borderBottomColor: "rgba(174, 38, 94, 60%)" }}
         borderBottomColor="rgba(174, 38, 94, 60%)"
